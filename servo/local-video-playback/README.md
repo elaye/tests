@@ -1,4 +1,4 @@
-Tests for this issue [24180](https://github.com/servo/servo/issues/24180#issuecomment-530418955)
+Tests for this issue [#24180](https://github.com/servo/servo/issues/24180)
 
 Run this to experience the playback freezing issue:
 
